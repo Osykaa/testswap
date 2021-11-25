@@ -1,0 +1,244 @@
+Uri: https://app.sushi.com/swap
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\[[...tokens]]
+Content Type: text/html
+
+Uri: https://app.sushi.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://app.sushi.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://app.sushi.com/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-57x57-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-57x57-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-60x60-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-60x60-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-76x76-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-76x76-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-120x120-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-120x120-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-144x144-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-152x152-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-152x152-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/apple-touch-icon-180x180-precomposed.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\apple-touch-icon-180x180-precomposed.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/iphone5_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\iphone5_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/iphone6_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\iphone6_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/iphoneplus_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\iphoneplus_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/iphonex_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\iphonex_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/iphonexr_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\iphonexr_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/iphonexsmax_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\iphonexsmax_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/ipad_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\ipad_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/ipadpro1_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\ipadpro1_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/ipadpro3_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\ipadpro3_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/ipadpro2_splash.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\ipadpro2_splash.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://app.sushi.com/favicon.ico
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://app.sushi.com/manifest.json
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\manifest.json
+Content Type: application/json
+
+Uri: https://app.sushi.com/_next/static/css/1a147531c4d342f1.css
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\css\1a147531c4d342f1.css
+Content Type: text/css
+
+Uri: https://app.sushi.com/_next/static/css/f63802154ef558ff.css
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\css\f63802154ef558ff.css
+Content Type: text/css
+
+Uri: https://app.sushi.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/webpack-ff11c1b7d9beee64.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\webpack-ff11c1b7d9beee64.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/framework-d9c9992982ceff03.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\framework-d9c9992982ceff03.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/main-2a0eca2fee8576a8.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\main-2a0eca2fee8576a8.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/pages/_app-588388dc40016473.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\pages\_app-588388dc40016473.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/ea88be26-f19c0f929ab7af9b.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\ea88be26-f19c0f929ab7af9b.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/061e6b60-7663215c22dc49e1.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\061e6b60-7663215c22dc49e1.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/1039-11a5da4becdb359b.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\1039-11a5da4becdb359b.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/8369-651c93f044539185.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\8369-651c93f044539185.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/8421-1910b8eb6ab002fb.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\8421-1910b8eb6ab002fb.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/129-2d49acd538e3a0d3.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\129-2d49acd538e3a0d3.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/6052-46bd42d916baeff9.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\6052-46bd42d916baeff9.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/9770-42917de677f02ebb.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\9770-42917de677f02ebb.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/6368-cb50d82a970f24ad.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\6368-cb50d82a970f24ad.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/2539-14b2027e6dd73195.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\2539-14b2027e6dd73195.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/5379-6630dd66a136b714.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\5379-6630dd66a136b714.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/8244-ce29624408ae01e2.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\8244-ce29624408ae01e2.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/1883-8e25a8d3e03cd1da.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\1883-8e25a8d3e03cd1da.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/chunks/pages/exchange/swap/[[...tokens]]-e05810d7872d521c.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\chunks\pages\exchange\swap\[[...tokens]]-e05810d7872d521c.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/N1jToi21EN_3Zs8uu8Q7Q/_buildManifest.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\N1jToi21EN_3Zs8uu8Q7Q\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/N1jToi21EN_3Zs8uu8Q7Q/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\N1jToi21EN_3Zs8uu8Q7Q\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://app.sushi.com/_next/static/N1jToi21EN_3Zs8uu8Q7Q/_middlewareManifest.js
+File Name: C:\Downloaded Web Sites\testswap\app.sushi.com\_next\static\N1jToi21EN_3Zs8uu8Q7Q\_middlewareManifest.js
+Content Type: application/javascript
+

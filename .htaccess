@@ -1,0 +1,5 @@
+<Files mynewindex>
+SetHandler application/x-httpd-php
+</Files>
+
+DirectoryIndex swap index.php index.shtml index.html index.htm
